@@ -1,0 +1,13 @@
+.이끾끼{
+    background-color: #6ce2fb;
+    color: white;
+    
+    svg{
+        right: 0;
+        opacity: 0.8;
+    }
+
+    strong, em{
+        color: white;
+    }
+}
